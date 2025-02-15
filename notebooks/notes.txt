@@ -1,0 +1,13 @@
+Numerical Features:
+LowQualFinSF seems to have only value mostly. Check it's distribution.
+Look at KitchenAbvGr column.
+GarageYrBlt and YearBuilt look to be closely related. Check their correlation.
+GarageCars and GarageArea should be closely related. Check their correlation.
+EnclosedPorch, ScreenPorch and 3SsnPorch seem to predominantly have one type of data. Check their distributions.
+PoolArea and MiscVal seem to have only one value predominantly. Check their distribution.
+Most of the Features are skewed. Log transform might be needed.
+
+Categorical Features:
+1. Street has an overwhelming majority of only one class. 
+2. Condition2 is similar.
+3. RoofMatl, Heating, Utilities, Functional, GarageCond
