@@ -8,3 +8,4 @@ First time using lgb.
 Worth revisiting to try out Weighted Model Ensemble and OPTUNA see if improvement happens.
 RandomCV achieved MAE of ~16,500 and an r2 score of ~0.90.
 Final submission achieved MAE of 15,586. 
+Kaggle rank of 576.
